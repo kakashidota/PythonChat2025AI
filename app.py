@@ -41,3 +41,8 @@ root.mainloop()
 # Steg 3, skriv en kommentar
 # steg 4, tryck på commit
 # steg 5, tryck på push
+
+
+# Terminal
+# Steg 1, Git status
+# Steg 2, git add .
