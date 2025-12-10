@@ -13,6 +13,7 @@ root.geometry("800x800")
 entry = tk.Entry(root, width=50)
 entry.pack(pady=5)
 
+# a function to send code to the database
 def send_message():
     if entry.get():
        messages_collection.insert_one({"text": entry.get()})
