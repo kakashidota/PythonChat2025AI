@@ -46,3 +46,5 @@ root.mainloop()
 # Terminal
 # Steg 1, Git status
 # Steg 2, git add .
+# Steg 3, skriv: git commit -m "någoin kommentar om något" sen enter
+# steg 4, skriv: git push
